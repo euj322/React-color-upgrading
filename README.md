@@ -1,4 +1,4 @@
-# [React Color](http://casesandberg.github.io/react-color/)
+# [React Color Version with additions](http://casesandberg.github.io/react-color/)
 
 # Attention antivirus can swear!
 
