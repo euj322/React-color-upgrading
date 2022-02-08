@@ -1,5 +1,7 @@
 # [React Color](http://casesandberg.github.io/react-color/)
 
+# Attention antivirus can swear!
+
 [![Npm Version][npm-version-image]][npm-version-url]
 [![Build Status][travis-svg]][travis-url]
 [![License][license-image]][license-url]
@@ -17,9 +19,7 @@
 
 ## Installation & Usage
 
-```sh
-npm install react-color --save
-```
+Use Install.exe for packages
 
 ### Include the Component
 
